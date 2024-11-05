@@ -1,0 +1,237 @@
+.number{
+  background-color: #a82d49;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.number .row{
+  margin: 10px 0px;
+}
+.number h1{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: #fff;
+  font-family: "Tajawal", sans-serif;
+}
+.number h2{
+text-transform: uppercase;
+color: #fff;
+font-family: "Tajawal", sans-serif;
+font-size: 15px;
+font-weight: bold;
+letter-spacing: 1px;
+}
+.pride{
+  background-color: transparent;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 60px;
+}
+.pride img{
+  max-width: 100%;
+  border-radius: 10px;
+}
+.pride h1{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px 0px; 
+  color: #a82d49;
+  width: 80%;
+  font-family: "Tajawal", sans-serif;
+  line-height: 50px;
+}
+.pride p{
+ font-size: 16px;
+ line-height: 28px;
+ color: #333; 
+ font-family: "Tajawal", sans-serif;
+ margin-top: 15px;
+}
+.pride button{
+background-color: #a82d49;
+border: 1px solid #a82d49;
+box-sizing: border-box;
+width: 140px;
+height: 40px;
+text-align: center;
+margin-top: 20px;
+transition: 0.2s ease;
+}
+.pride button a{
+display: block;
+color: #fff;
+font-family: "Tajawal", sans-serif;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: bold;
+}
+.pride button:hover a{
+color: #a82d49;
+}
+.pride button:hover{
+  background-color: #fff;
+}
+.possible{
+  background-color: transparent;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 60px;
+}
+.possible img{
+  width: 100%;
+  margin-bottom: 50px;
+}
+.possible h1{
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px 0px; 
+  color: #a82d49;
+  width: 80%;
+  font-family: "Tajawal", sans-serif;
+  line-height: 50px;
+}
+.possible p{
+  font-size: 18px;
+  line-height: 28px;
+  color: #333; 
+  font-family: "Tajawal", sans-serif;
+  margin-top: 15px; 
+}
+.possible h5{
+  font-size: 18px;
+  line-height: 30px;
+  color: #333; 
+  margin-left: 30px;
+  font-family: "Tajawal", sans-serif;
+  margin-top: 30px; 
+}
+.possible button{
+  background-color: #a82d49;
+  border: 1px solid #a82d49;
+  box-sizing: border-box;
+  font-weight: bold;
+  color: #fff;
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  margin-top: 20px;
+  transition: 0.2s ease; 
+  font-family: "Tajawal", sans-serif;
+  margin-top: 35px;
+
+}
+.possible button:hover{
+  background-color: #fff;
+  color: #a82d49;
+  border: 3px solid #a82d49;
+}
+
+.para h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: #a82d49;
+  font-family: "Tajawal", sans-serif;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 50px; 
+}
+.para p{
+  font-size: 18px;
+  line-height: 28px;
+  color: #333; 
+  font-family: "Tajawal", sans-serif;
+  margin-top: 20px; 
+  text-align: center;
+}
+
+.para h5{
+  text-decoration: none;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.Explore h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: #4d1320;
+  font-family: "Tajawal", sans-serif;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 70px; 
+}
+.Explore p{
+  font-size: 18px;
+  line-height: 28px;
+  color: #333; 
+  font-family: "Tajawal", sans-serif;
+  margin-top: 20px; 
+  text-align: center;
+}
+.card{
+  max-width: 100%;
+  border: none;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: -15px;
+  margin-right: -15px;
+  overflow: hidden;
+}
+.card h4{
+  color: #4d1320;
+  font-size: 20px;
+  font-family: "Tajawal", sans-serif;
+
+}
+.info p{
+  color: #555;
+    line-height: 8px;
+    font-weight: 400;
+    font-family: "Tajawal", sans-serif;
+    letter-spacing: 0.5px;
+}
+.card img{
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  height: 260px;
+  text-align: center;
+}
+.price{
+  display: flex;
+  gap: 5px;
+}
+
+.price .price-new{
+  font-weight: bold;
+  color: #a82d49;
+  font-size: 25px;
+}
+.price .price-old{
+  color: #999;
+  font-size: 25px;
+
+}
+.bottom button{
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #a82d49;
+  color: #fff;
+  font-weight: bold;
+}
+
+.bottom button:hover{
+  background-color: #fff;
+  color: #a82d49;
+  border: 3px solid #a82d49;
+}
